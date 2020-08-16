@@ -1,0 +1,4 @@
+# ignore generated folders
+obj/
+bin/
+.vscode/
