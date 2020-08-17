@@ -6,4 +6,4 @@ the database I was using.
 
 https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/
 
-Run using dotnet run [inputFile] [outputFile]
+Run using dotnet run CORONA [inputFile] [outputFile]
